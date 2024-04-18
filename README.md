@@ -1,1 +1,1 @@
-# Telegram_Channel_Info_Grabber
+# Telegram Channel Info Grabber
